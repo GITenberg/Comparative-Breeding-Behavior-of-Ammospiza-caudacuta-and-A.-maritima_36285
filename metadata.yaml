@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '38175'
     url: http://www.gutenberg.org/2009/agents/38175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36285#Comparative-Breeding-Behavior-of-Ammospiza-caudacuta-and-A.-maritima
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
